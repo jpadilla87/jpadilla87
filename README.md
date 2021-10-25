@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jpadilla87
-- 👀 I’m interested in software engineering & product management
+- 👀 I’m interested in software developemtnt, web development & product management
 - 🌱 I’m currently learning about the foundations of Computer Science
 - 📫 How to reach me - jpadillaforwork@gmail.com
 
