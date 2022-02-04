@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jpadilla87
-- 👀 I’m interested in software developemtnt, web development & product management
-- 🌱 I’m currently learning about the foundations of Computer Science
+- 👀 I’m interested in front-end software development and UI/UX design!
+- 🌱 I’m currently learning more about Computer Science!
 - 📫 How to reach me - jpadillaforwork@gmail.com
 
 <!---
