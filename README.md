@@ -10,7 +10,7 @@
   
 - 👨‍💻 All of my projects are available at [https://jorells-portfolio.vercel.app/](https://jorells-portfolio.vercel.app/)  
   
-- 📫 You can reach me at **jorellpadilla@gmail.com**  
+- 📫 You can reach me at **jpadilla9@uh.edu**  
   
 - ⚡ Fun fact, **I'm a Graphic Designer!**  
   
