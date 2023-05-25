@@ -6,7 +6,7 @@
   
 - 🔭 I’m currently working on my **Personal Blog**  
   
-- 🌱 I’m currently learning more about **UI/UX Design, Operating Systems, & Web Development**  
+- 🌱 I’m currently learning more about **UI/UX Design, Databases & Web Development**  
   
 - 👨‍💻 All of my projects are available at [https://jorells-portfolio.vercel.app/](https://jorells-portfolio.vercel.app/)  
   
