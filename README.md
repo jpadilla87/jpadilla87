@@ -4,15 +4,9 @@
 <h1 align="center">Welcome to my Github</h1>  
 <h3 align="center">Aspiring Front-End Developer with a Passion for Design</h3>  
   
-- 🔭 I’m currently working on my **Personal Blog**  
-  
-- 🌱 I’m currently learning more about **UI/UX Design, Databases & Web Development**  
-  
-- 👨‍💻 All of my projects are available at [https://jorells-portfolio.vercel.app/](https://jorells-portfolio.vercel.app/)  
-  
 - 📫 You can reach me at **jpadilla9@uh.edu**  
   
-- ⚡ Fun fact, **I'm a Graphic Designer!**  
+- ⚡ Fun fact, **I'm a Product Designer!**  
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
